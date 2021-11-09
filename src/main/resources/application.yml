@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/AluCarros?&serverTimezone=UTC
     username: root
-    password: sUaSeNhA@1234
+    password: senha1234
   jpa:
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect 
     hibernate:
